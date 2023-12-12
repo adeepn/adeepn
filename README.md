@@ -11,17 +11,16 @@ Quick bio: Embedded Linux Engineer [@jethome-ru](https://github.com/jethome-ru),
     - Git Trees: [Upstream](https://github.com/armbian/build) | [Work](https://github.com/jethome-ru/build-armbian) | [Pull Requests & Issues](https://github.com/armbian/build/pulls?q=is%3Apr+author%3Aadeepn)
 - 👯 I’m looking to collaborate on ...
   - Amlogic mainline U-Boot & Linux Development & Testing
-  - Realtek RTL8822CS driver support
+  - Realtek RTL8822CS driver support (deprecated)
 - 🤔 I’m looking for help with ...
   - Amlogic mainline U-Boot & Linux Development & Testing
-  - Realtek RTL8822CS driver support
 - 💬 Ask me about ...
   - JetHome and JetHub devices (see https://jethome.eu)
 - 📫 How to reach me: ...
   - [Telegram JetHome](https://t.me/jethomeru)
   - [Telegram](https://t.me/adeepv)
-  - Discord: adeepv#6996
-  
+  - [Discord](discordapp.com/users/adeepv)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeepn&count_private=true&show_icons=true&include_all_commits=yes&hide_rank=yes)](https://github.com/anuraghazra/github-readme-stats)
