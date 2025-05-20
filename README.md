@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Quick bio: Embedded Linux Engineer [@jethome-ru](https://github.com/jethome-ru), Amlogic (arm-soc, dts) Developer, [jethome-iot](https://github.com/jethome-iot), [jethub-iot](https://github.com/jethub-iot) Developer, [Armbian](https://github.com/armbian/build) Contributor.
+Quick bio: Embedded Linux Engineer [@jethome-iot](https://github.com/jethome-iot), Amlogic (arm-soc, dts) Developer, [jethub-iot](https://github.com/jethub-iot) Developer, [Armbian](https://github.com/armbian/build) Contributor.
 
 - 🔭 I’m currently working on ...
   - JetHub Upstream Support  
@@ -11,16 +11,15 @@ Quick bio: Embedded Linux Engineer [@jethome-ru](https://github.com/jethome-ru),
     - Git Trees: [Upstream](https://github.com/armbian/build) | [Work](https://github.com/jethome-iot/armbian-build) | [Pull Requests & Issues](https://github.com/armbian/build/pulls?q=is%3Apr+author%3Aadeepn)
 - 👯 I’m looking to collaborate on ...
   - Amlogic mainline U-Boot & Linux Development & Testing
-  - Realtek RTL8822CS driver support (some deprecated)
+  - Realtek RTL8822CS driver support (manufacturer version)
 - 🤔 I’m looking for help with ...
   - Amlogic mainline U-Boot & Linux Development & Testing
 - 💬 Ask me about ...
-  - JetHome and JetHub devices (see https://jethome.ru)
+  - JetHome and JetHub devices (see https://jethome.com)
 - 📫 How to reach me: ...
-  - [Telegram JetHome](https://t.me/jethomeru)
+  - [Telegram JetHome](https://t.me/jethome_en)
   - [Telegram](https://t.me/adeepv)
   - [Discord](https://discordapp.com/users/adeepv)
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeepn&count_private=true&show_icons=true&include_all_commits=yes&hide_rank=yes)](https://github.com/anuraghazra/github-readme-stats)
